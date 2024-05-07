@@ -1,6 +1,14 @@
-# Note of Soroban internship bootcamp
+# How to run
 
-## Install Soroban CLI
+This is for "Submit your Pre-work Project"
+
+```sh
+cargo run 
+```
+
+## Note of Soroban internship bootcamp
+
+### Install Soroban CLI
 
 - Run `cargo install --locked soroban-cli`.
   - If meet compile error, switch to use stable rust (not nightly).
