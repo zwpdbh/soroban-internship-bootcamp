@@ -1,6 +1,6 @@
 # How to run
 
-This is for "Submit your Pre-work Project"
+This is for "Submit your Pre-work Project" in the "Soroban Internship Bootcamp".
 
 ```sh
 cargo run 
